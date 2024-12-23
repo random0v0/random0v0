@@ -1,4 +1,4 @@
-# Take it everything
+# Take it if you want it
 
 ### [AmadeusEmber : Third Party Application for EMBER: Obsidian Protocol](https://github.com/random0v0/AmadeusEmber)
 
