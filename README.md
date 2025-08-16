@@ -6,6 +6,8 @@
 
 ### [SimpleHierarchy : Unity Asset for Better Hierarchy Visibility](https://github.com/random0v0/SimpleHierarchy)
 
+### [FateTrigger Sensitivity Converter](https://github.com/random0v0/FateTrigger-Sensitivity-Converter)
+
 
 
 -------------------------------
