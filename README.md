@@ -8,6 +8,8 @@
 
 ### [FateTrigger Sensitivity Converter](https://github.com/random0v0/FateTrigger-Sensitivity-Converter)
 
+### [Mage Arena Party](https://github.com/random0v0/Mage-Arena-Party)
+
 
 
 -------------------------------
